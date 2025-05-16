@@ -1,0 +1,4 @@
+fk_id_usuario,fk_id_producto,cantidad,fecha,estado
+7,6,3,2025-05-16 14:30:00,pendiente
+2,5,1,2025-05-15 09:15:00,enviado
+3,3,2,2025-05-14 18:45:00,entregado
